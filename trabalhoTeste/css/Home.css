@@ -13,6 +13,9 @@
 		box-sizing: border-box;
 		border: none;
 	}
+	body{
+		font-family: Arial, Helvetica, sans-serif;
+	}
 	#Web_1920__1 {
 		position: absolute;
 		width: 1920px;
@@ -131,7 +134,7 @@
 		line-height: 90px;
 		margin-top: -12.5px;
 		text-align: left;
-		font-family: Oswald;
+		font-family: Arial, Helvetica, sans-serif;
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 65px;
@@ -145,7 +148,7 @@
 		width: 637px;
 		height: 163px;
 		text-align: left;
-		font-family: Oswald;
+		font-family: Arial, Helvetica, sans-serif;
 		font-style: normal;
 		font-weight: normal;
 		font-size: 20px;
@@ -160,7 +163,7 @@
 		width: 94px;
 		white-space: nowrap;
 		text-align: left;
-		font-family: Oswald;
+		font-family: Arial, Helvetica, sans-serif;
 		font-style: normal;
 		font-weight: normal;
 		font-size: 18px;
@@ -179,10 +182,10 @@
 	.Line_1 {
 		overflow: visible;
 		position: absolute;
-		width: 37px;
+		width: 50px;
 		height: 2px;
-		left: 981.5px;
-		top: 89.5px;
+		left: 976px;
+		top: 86.5px;
 		transform: matrix(1,0,0,1,0,0);
 	}
 	#Rectangle_5 {
@@ -208,7 +211,7 @@
 		width: 82px;
 		white-space: nowrap;
 		text-align: left;
-		font-family: Oswald;
+		font-family: Arial, Helvetica, sans-serif;
 		font-style: normal;
 		font-weight: normal;
 		font-size: 18px;
@@ -236,7 +239,7 @@
 		line-height: 80px;
 		margin-top: -7.5px;
 		text-align: left;
-		font-family: Oswald;
+		font-family: Arial, Helvetica, sans-serif;
 		font-style: normal;
 		font-weight: normal;
 		font-size: 65px;
@@ -250,7 +253,7 @@
 		width: 696px;
 		height: 119px;
 		text-align: left;
-		font-family: Oswald;
+		font-family: Arial, Helvetica, sans-serif;
 		font-style: normal;
 		font-weight: normal;
 		font-size: 20px;
@@ -264,7 +267,7 @@
 		width: 696px;
 		height: 119px;
 		text-align: left;
-		font-family: Oswald;
+		font-family: Arial, Helvetica, sans-serif;
 		font-style: normal;
 		font-weight: normal;
 		font-size: 20px;
@@ -315,7 +318,7 @@
 		width: 82px;
 		white-space: nowrap;
 		text-align: left;
-		font-family: Oswald;
+		font-family: Arial, Helvetica, sans-serif;
 		font-style: normal;
 		font-weight: normal;
 		font-size: 18px;
@@ -331,7 +334,7 @@
 		line-height: 80px;
 		margin-top: -7.5px;
 		text-align: left;
-		font-family: Oswald;
+		font-family: Arial, Helvetica, sans-serif;
 		font-style: normal;
 		font-weight: normal;
 		font-size: 65px;
@@ -435,7 +438,7 @@
 		line-height: 80px;
 		margin-top: -7.5px;
 		text-align: left;
-		    font-family: Arial, Helvetica, sans-serif;
+		font-family: Arial, Helvetica, sans-serif;
 		font-style: normal;
 		font-weight: bold;
 		font-size: 65px;
