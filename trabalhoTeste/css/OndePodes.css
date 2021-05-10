@@ -1,0 +1,489 @@
+.mediaViewInfo {
+		--web-view-name: Sobre – 1;
+		--web-view-id: Sobre__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Sobre__1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Sobre__1 {
+		position: absolute;
+		width: 1920px;
+		height: 2256px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Sobre – 1;
+		--web-view-id: Sobre__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Path_1_k {
+		fill: url(#Path_1_k);
+	}
+	.Path_1_k {
+		overflow: visible;
+		position: absolute;
+		width: 1529.301px;
+		height: 1217.059px;
+		left: 598.099px;
+		top: -308.466px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Home {
+		left: 974px;
+		top: 56px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+		text-transform: uppercase;
+	}
+	#Sobre {
+		left: 1115px;
+		top: 56px;
+		position: absolute;
+		overflow: visible;
+		width: 54px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+		text-transform: uppercase;
+	}
+	#ContACTOS {
+		left: 1487px;
+		top: 56px;
+		position: absolute;
+		overflow: visible;
+		width: 101px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+		text-transform: uppercase;
+	}
+	#ONDE_ESTAMOS {
+		left: 1258px;
+		top: 56px;
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+		text-transform: uppercase;
+	}
+	#Onde_podes_comear_a_tua_carrei {
+		left: 140px;
+		top: 190px;
+		position: absolute;
+		overflow: visible;
+		width: 700px;
+		white-space: nowrap;
+		line-height: 90px;
+		margin-top: -12.5px;
+		text-align: left;
+		font-family: Oswald;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 65px;
+		color: rgba(41,41,41,1);
+	}
+	#O_Programa_BrightStart_atualme {
+		left: 140px;
+		top: 439px;
+		position: absolute;
+		overflow: visible;
+		width: 637px;
+		height: 616px;
+		text-align: left;
+		font-family: Oswald;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(122,122,122,1);
+	}
+	#Line_1 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 97px;
+		height: 2px;
+		left: 1276.5px;
+		top: 92.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#logo-deloitte-photoshop {
+		position: absolute;
+		width: 198px;
+		height: 112px;
+		left: 130px;
+		top: 12px;
+		overflow: visible;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 173px;
+		height: 47px;
+		left: 1676px;
+		top: 45px;
+		overflow: visible;
+	}
+	#INSCRIES_ {
+		left: 36px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 103px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+		text-transform: uppercase;
+	}
+	#Rectangle_1 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		height: 47px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_53 {
+		position: absolute;
+		width: 2353.899px;
+		height: 752.852px;
+		left: -216.95px;
+		top: 1678.135px;
+		overflow: visible;
+	}
+	#Path_42_y {
+		fill: url(#Path_42_y);
+	}
+	.Path_42_y {
+		overflow: visible;
+		position: absolute;
+		width: 2353.899px;
+		height: 752.852px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Links_teis {
+		left: 1529.136px;
+		top: 199.865px;
+		position: absolute;
+		overflow: visible;
+		width: 102px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Contactos {
+		left: 1746.136px;
+		top: 199.865px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Home_ {
+		left: 1529.136px;
+		top: 241.865px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Sobre_ {
+		left: 1529.136px;
+		top: 285.865px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Contactos_ {
+		left: 1529.136px;
+		top: 329.865px;
+		position: absolute;
+		overflow: visible;
+		width: 90px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Onde_estamos {
+		left: 1529.136px;
+		top: 372.865px;
+		position: absolute;
+		overflow: visible;
+		width: 137px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Inscries {
+		left: 1529.136px;
+		top: 416.865px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#facebook_1 {
+		fill: rgba(255,255,255,1);
+	}
+	.facebook_1 {
+		overflow: visible;
+		position: absolute;
+		width: 11.21px;
+		height: 22.418px;
+		left: 1746.135px;
+		top: 249.865px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#instagram_1 {
+		position: absolute;
+		width: 24.718px;
+		height: 24.718px;
+		left: 1745.136px;
+		top: 301.865px;
+		overflow: visible;
+	}
+	#Group_48 {
+		position: absolute;
+		width: 24.718px;
+		height: 24.718px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_47 {
+		position: absolute;
+		width: 24.718px;
+		height: 24.718px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_43 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_43 {
+		overflow: visible;
+		position: absolute;
+		width: 24.718px;
+		height: 24.718px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_50 {
+		position: absolute;
+		width: 12.359px;
+		height: 12.359px;
+		left: 6.179px;
+		top: 6.179px;
+		overflow: visible;
+	}
+	#Group_49 {
+		position: absolute;
+		width: 12.359px;
+		height: 12.359px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_44 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_44 {
+		overflow: visible;
+		position: absolute;
+		width: 12.359px;
+		height: 12.359px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_52 {
+		position: absolute;
+		width: 1.647px;
+		height: 1.647px;
+		left: 18.178px;
+		top: 4.893px;
+		overflow: visible;
+	}
+	#Group_51 {
+		position: absolute;
+		width: 1.647px;
+		height: 1.647px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Ellipse_10 {
+		fill: rgba(255,255,255,1);
+	}
+	.Ellipse_10 {
+		position: absolute;
+		overflow: visible;
+		width: 1.647px;
+		height: 1.647px;
+		left: 0px;
+		top: 0px;
+	}
+	#twitter_1 {
+		position: absolute;
+		width: 24.718px;
+		height: 20.075px;
+		left: 1745.136px;
+		top: 355.865px;
+		overflow: visible;
+	}
+	#Path_45 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_45 {
+		overflow: visible;
+		position: absolute;
+		width: 24.718px;
+		height: 20.075px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#dribbble {
+		fill: rgba(255,255,255,1);
+	}
+	.dribbble {
+		overflow: visible;
+		position: absolute;
+		width: 24.718px;
+		height: 24.718px;
+		left: 1745.136px;
+		top: 404.865px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#skyscraper-5489696_1920 {
+		position: absolute;
+		width: 1064px;
+		height: 710px;
+		left: -0.814px;
+		top: 1580px;
+		overflow: visible;
+	}
+	#Rectangle_12 {
+		fill: transparent;
+	}
+	.Rectangle_12 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1082px;
+		left: 0px;
+		top: 2164px;
+	}
+	#Rectangle_13 {
+		fill: transparent;
+	}
+	.Rectangle_13 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1082px;
+		left: 0px;
+		top: 2164px;
+	}
+	#pngwingcom {
+		position: absolute;
+		width: 446px;
+		height: 728px;
+		left: 1041px;
+		top: 348px;
+		overflow: visible;
+	}
+    ::-webkit-scrollbar {
+        width: 0;  /* Remove scrollbar space */
+        background: transparent;  /* Optional: just make scrollbar invisible */
+    }

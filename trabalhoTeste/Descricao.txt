@@ -1,0 +1,9 @@
+Product Owner - Joaquim Rodrigues 19034
+Objetivos- 	Comecar a trabalhar na base de dados - Ja se comecou no MongoDB a definir as tabelas user, admin e formSubmission
+		Comecar a fazer as paginas em html - As paginas ja estao criadas, non-responsive, com algum JS a funcionar
+
+Next Sprint - 	Comecar a fazer o frontend em ExpressJS
+		Criar a página dos contactos
+		Tornar todas as paginas em responsive
+		Simplificar algum do codigo e nomes de funcoes
+		
