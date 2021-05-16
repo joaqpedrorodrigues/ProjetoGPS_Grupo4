@@ -1,0 +1,49 @@
+body{
+    -webkit-user-drag: none;
+    user-zoom: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    /*background-image: url("fundo.png");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#vazio{
+    -webkit-user-drag: none;
+    user-zoom: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+#teste{
+    -webkit-user-drag: auto;
+    user-zoom: auto;
+    user-select: auto;
+    -moz-user-select: auto;
+    -webkit-user-drag: auto;
+    -webkit-user-select: auto;
+    -ms-user-select: auto;
+}
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
+#fundo{
+    padding-top:-10px;
+    margin-top: -10px;
+    padding-bottom:-15px;
+    margin-bottom: -15px;
+    padding-left:-10px;
+    margin-left: -10px;
+    padding-right:-10px;
+    margin-right: -10px;
+}
