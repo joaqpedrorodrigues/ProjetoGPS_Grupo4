@@ -35,9 +35,6 @@
             </div>
         </div>
     </nav>
-
-
-
     <!-- Header-->
     <header class="masthead text-center text-white">
         <div class="masthead-content">
@@ -49,54 +46,39 @@
         </div>
     </header>
     <!-- Content section 1-->
-    <section id="scroll">
-        <div class="container px-5">
-            <div class="row gx-5 align-items-center">
-                <div class="col-lg-6 order-lg-2">
-                    <div class="p-5"><img class="img-fluid rounded-circle" src="imgs/01.png" alt="..." /></div>
-                </div>
-                <div class="col-lg-6 order-lg-1">
-                    <div class="p-5">
-                        <h2 class="display-4">Instituto Politécnico de Setúbal</h2>
-                        <p class="paragraphs">Email: brightstart@deloitte.pt<br>Telefone: 210 422 932</p>
-                    </div>
-                </div>
-            </div>
+    <form class="form">
+        <select class="custom-select custom-select-sm">
+            <option selected>Razão de contacto</option>
+            <option value="Ins">Inscrição</option>
+            <option value="Duv">Dúvidas</option>
+            <option value="Sug">Sugestão</option>
+        </select>
+
+        <div class="form-group">
+            <label for="inputFirstName">Nome</label>
+            <input type="text" class="form-control" id="inputFirstName" aria-describedby="emailHelp" placeholder="Inserir Primeiro Nome">
         </div>
-    </section>
-    <!-- Content section 2-->
-    <section>
-        <div class="container px-5">
-            <div class="row gx-5 align-items-center">
-                <div class="col-lg-6 order-lg-2">
-                    <div class="p-5"><img class="img-fluid rounded-circle" src="imgs/03.png" alt="..." /></div>
-                </div>
-                <div class="col-lg-6 order-lg-1">
-                    <div class="p-5">
-                        <h2 class="display-4">Instituto Politécnico de Viseu</h2>
-                        <p class="paragraphs">Email: brightstartIPV@deloitte.pt<br>Telefone: 210 422 934</p>
-                    </div>
-                </div>
-            </div>
+
+        <div class="form-group">
+            <label for="inputSurname">Apelido</label>
+            <input type="text" class="form-control" id="inputSurname" aria-describedby="emailHelp" placeholder="Inserir Último Nome">
         </div>
-    </section>
-    <!-- Content section 3-->
-    <section>
-        <div class="container px-5">
-            <div class="row gx-5 align-items-center">
-                <div class="col-lg-6 order-lg-2">
-                    <div class="p-5"><img class="img-fluid rounded-circle" src="imgs/03.png" alt="..." /></div>
-                </div>
-                <div class="col-lg-6 order-lg-1">
-                    <div class="p-5">
-                        <h2 class="display-4">Instituto Politécnico de Leiria</h2>
-                        <p class="paragraphs">Email: brightstartIPL@deloitte.pt<br>Telefone: 210 422 935
-                        </p>
-                    </div>
-                </div>
-            </div>
+
+        <div class="form-group">
+            <label for="inputEmail">Email</label>
+            <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Inserir Email">
         </div>
-    </section>
+
+        <div class="form-group">
+            <label for="inputCity">Cidade</label>
+            <input type="text" class="form-control" id="inputCity" aria-describedby="emailHelp" placeholder="Inserir Cidade">
+        </div>
+        <div class="form-group">
+            <label for="inputMessage">Mensagem</label>
+            <input type="text" class="form-control" id="inputMessage" aria-describedby="emailHelp" placeholder="Mensagem">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
     <!-- Footer-->
     <footer class="py-5">
         <img class="m-0 footer-img" src="css/edificioDeloitte.png" alt="..." /></p>
