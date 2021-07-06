@@ -15,6 +15,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
+    <script type="text/javascript" src="js/scripts.js"></script>
 </head>
 
 <body id="page-top">
@@ -39,9 +40,9 @@
     <header class="masthead text-center text-white">
         <div class="masthead-content">
             <div class="container px-5">
-                <img class=" img-fluid rounded-circle" style="width: 25rem; margin-top: 0px;" src="imgs/02.png">
-                <h1 class="masthead-heading mb-0">Programa BrightStart</h1>
-                <h2 class="masthead-subheading mb-0">Já decidiste que te queres inscrever? Fá-lo aqui!</h2>
+                <img class=" img-fluid rounded-circle" style="width: 25rem; margin-top: 0px; float: left;" src="imgs/02.png" onclick="teste()">
+                <h1 class="masthead-heading mb-0" style="float: right;">Programa BrightStart</h1>
+                <h2 class="masthead-subheading mb-0" style="float: right;">Já decidiste que te queres inscrever? Fá-lo aqui!</h2>
                 <!--<a class="btn btn-primary btn-xl rounded-pill mt-5" href="#scroll">Learn More</a>-->
             </div>
         </div>
@@ -49,28 +50,29 @@
     <!-- Content section 1-->
     <form class="form">
         <label for="inputReason">Razão de contacto</label>
-        <select class="custom-select custom-select-sm">
-            <option selected value="Ins">Inscrição</option>
+        <select id="dropdown" class="custom-select custom-select-sm" onchange="mostrar()">
+            <option selected value="Ins" >Inscrição</option>
+            <option value="Mes" >Mensagem</option>
             <!-- <option value="Duv">Dúvidas</option>-->
             <!-- <option value="Sug">Sugestão</option>-->
         </select>
 
-        <div class="form-group">
+        <div class="form-group" id="divTest">
             <label for="inputFirstName">Nome</label>
             <input type="text" class="form-control" id="inputFirstName" aria-describedby="emailHelp" placeholder="Inserir Primeiro Nome">
         </div>
 
-        <div class="form-group">
+        <div class="form-group" id="divTest2">
             <label for="inputSurname">Apelido</label>
             <input type="text" class="form-control" id="inputSurname" aria-describedby="emailHelp" placeholder="Inserir Último Nome">
         </div>
 
-        <div class="form-group">
+        <div class="form-group" id="divTest3">
             <label for="inputEmail">Email</label>
             <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Inserir Email">
         </div>
 
-        <div class="form-group">
+        <div class="form-group" id="divTest4">
             <label for="inputCity">Cidade</label>
             <input type="text" class="form-control" id="inputCity" aria-describedby="emailHelp" placeholder="Inserir Cidade">
         </div>
@@ -82,35 +84,34 @@
     </form>
 
     <!-- Footer-->
-    
+
     <footer class="footer-distributed">
 
 
-        <div class="footer-left"> 
-                <h3>Bright<span>Start</span></h3>
-                <p class="footer-company-name">Deloitte</p>
-            </div>
+        <div class="footer-left">
+            <h3>Bright<span>Start</span></h3>
+            <p class="footer-company-name">Deloitte</p>
+        </div>
 
-            <div class="footer-center">
-                
-                <p class="footer-links">
-                    <a style="color: white;" href="Home.html">Home</a> 
-                    <br> <a style="color: white;" href="Home.html">Contactos</a>
-                    <br> <a style="color: white;" href="Home.html">Sobre</a> 
-                    <br> <a href="Home.html">Inscrição</a> 
-                    <br> <a style="color: white;" href="Home.html">Testemunhos</a>
-                </p>
-            </div>
+        <div class="footer-center">
 
-            <div class="footer-right">
+            <p class="footer-links">
+                <a style="color: white;" href="Home.html">Home</a>
+                <br> <a style="color: white;" href="Home.html">Contactos</a>
+                <br> <a style="color: white;" href="Home.html">Sobre</a>
+                <br> <a href="Home.html">Inscrição</a>
+                <br> <a style="color: white;" href="Home.html">Testemunhos</a>
+            </p>
+        </div>
 
-                <p class="footer-company-about">
-                    <span>Mais Informações</span>
-                    A Deloitte abrange ao Programa BrightStart com oferta de bolsas de estudo e propinas na área tecnológica!
-                </p>
+        <div class="footer-right">
+
+            <p class="footer-company-about">
+                <span>Mais Informações</span> A Deloitte abrange ao Programa BrightStart com oferta de bolsas de estudo e propinas na área tecnológica!
+            </p>
 
 
-            </div>
+        </div>
 </body>
 
 </html>
