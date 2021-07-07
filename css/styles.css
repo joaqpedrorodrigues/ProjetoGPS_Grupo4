@@ -3,6 +3,36 @@
     left: 100%;
 }
 
+.logobarra{
+    width: 100px;
+}
+
+.quadrado {
+    position: relative;
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 400px;
+    height: 600px;
+    border: thick  groove  #41b8e7;
+  }
+
+  .quadrado2 {
+    position: relative;
+    margin-top: 0px;
+    margin-left: 500px;
+    width: 400px;
+    height: 600px;
+    border: thick  groove  #41b8e7;
+  }
+
+  .quadrado3 {
+    position: relative;
+    margin-top: 100px;
+    margin-left: 500px;
+    width: 400px;
+    height: 600px;
+    border: thick  groove  #41b8e7;
+  }
 
 /* Rodapé */
 
@@ -232,9 +262,9 @@ body {
 header.masthead {
     position: relative;
     overflow: hidden;
-    padding-top: calc(7rem + 72px);
+    padding-top: calc(0rem + 0px);
     padding-bottom: 7rem;
-    background: linear-gradient(90deg, #141A26 0%, #3E6174 100%);
+    background: linear-gradient(20deg, #13171f 30%, #3E6174 100%);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: scroll;
@@ -291,11 +321,11 @@ header.masthead .bg-circle-4 {
 
 @media (min-width: 992px) {
     header.masthead {
-        padding-top: calc(10rem + 55px);
+        padding-top: calc(5rem + 50px);
         padding-bottom: 10rem;
     }
     header.masthead .masthead-content .masthead-heading {
-        font-size: 4, 5rem;
+        font-size: 4,5rem;
     }
     header.masthead .masthead-content .masthead-subheading {
         font-size: 2rem;
