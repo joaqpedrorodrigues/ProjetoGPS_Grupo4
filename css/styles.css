@@ -1,3 +1,37 @@
+#Subtitulo1 {
+    font-style:normal;
+    font-size:50px;
+    left: 45%;
+    top: 260px;
+    position: absolute;
+    overflow: visible;
+    width: 700px;
+    white-space: nowrap;
+    line-height: 90px;
+    margin-top: -12.5px;
+    text-align: center;
+    font-style: normal;
+    font-weight: lighter;
+    color: white;
+}
+
+#Subtitulo2 {
+    font-style:normal;
+    font-size:45px;
+    top: 340px;
+    left: 41%;
+    position: absolute;
+    overflow: visible;
+    width: 700px;
+    white-space: nowrap;
+    line-height: 90px;
+    margin-top: -12.5px;
+    text-align: center;
+    font-style: normal;
+    font-weight: lighter;
+    color: white;
+}
+
 .imgfooter {
     width: 200%;
     left: 100%;
